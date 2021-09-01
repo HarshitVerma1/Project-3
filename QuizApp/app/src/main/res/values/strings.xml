@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="correct_answer">correct!</string>
+    <string name="incorrect_Answer">incorrect!</string>
+</resources>
